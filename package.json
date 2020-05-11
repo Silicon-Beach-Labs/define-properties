@@ -34,7 +34,7 @@
 		"object-keys": "^1.1.1"
 	},
 	"devDependencies": {
-		"@ljharb/eslint-config": "^16.0.0",
+		"@ljharb/eslint-config": "^17.0.0",
 		"covert": "^1.1.1",
 		"eslint": "^6.8.0",
 		"safe-publish-latest": "^1.1.4",
